@@ -1,0 +1,27 @@
+        
+/* -------- Body CSS --------------- */
+
+body{   
+    background-image: url("../images/bg.jpg");  
+    background-size: cover;
+} 
+
+
+/* --------- Admin Form CSS -------------- */
+#frm{  
+    border: solid gray 1px;  
+    width:25%;  
+    border: none;
+    border-radius: 25px;
+    margin: 120px auto;  
+    background: #bdd6eb;  
+    padding: 50px;  
+   
+}  
+#btn{  
+    color: #fff;  
+    background: #337ab7;  
+    padding: 7px;  
+    margin-left: 70%; 
+    border-radius: 5px; 
+}  
